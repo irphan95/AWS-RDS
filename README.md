@@ -25,4 +25,10 @@
 ![step10](https://user-images.githubusercontent.com/103019032/171088859-396dc6c6-c9f3-4cad-b5a1-f5a97358f21d.PNG)
 - #### If you want connect ec2 instance via ssh in CLI, go to the folder where pem file is stored,and type pem file name with extension and user name with public ip address.
 ![step11](https://user-images.githubusercontent.com/103019032/171089910-cf1b1ef1-a6e0-4cf2-8a6a-045f7ee9694b.PNG)
+- #### Create database with the name of STUDENT.
+![step12](https://user-images.githubusercontent.com/103019032/171092868-e0e46883-25d1-4a9b-b1db-6b4732eb8f31.PNG)
+- #### Insert the values in a student database.
+ ![step18](https://user-images.githubusercontent.com/103019032/171093358-83f45f4f-b2f3-4190-a0d3-40886730a883.PNG)
+- #### It show the inserted values in the databse.
+![step14](https://user-images.githubusercontent.com/103019032/171093202-403316bc-39f8-49c6-a135-cf3842c462d9.PNG)
 
