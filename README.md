@@ -15,4 +15,14 @@
 ![step5](https://user-images.githubusercontent.com/103019032/170978334-f2aa8d0e-eb27-4a59-b7f1-7abab83ab673.PNG)
 - #### Click on create database.
 ![step6](https://user-images.githubusercontent.com/103019032/170978358-764c3b6b-9f61-4ac9-8252-2245ae7ca7b4.PNG)
+- #### After clicking on create database,you can see our database has been created.
+![step7](https://user-images.githubusercontent.com/103019032/171087498-e1934b1c-a572-4d91-92d5-5613b26bb8f3.PNG)
+- #### After created the databases,go to the security group and click on the inbound rules.
+![step8](https://user-images.githubusercontent.com/103019032/171088094-00c215e5-6a8f-4fb1-a775-5eecd0111f3a.png)
+- #### choose all traffic,in a source option you can choose existing security group or user created group,and click on save rules.
+![step9](https://user-images.githubusercontent.com/103019032/171088677-94d4fc79-a67e-4c6c-ac04-94b8d0ecc2f0.PNG)
+- #### Copy this endpoint,connect to mysql instance.
+![step10](https://user-images.githubusercontent.com/103019032/171088859-396dc6c6-c9f3-4cad-b5a1-f5a97358f21d.PNG)
+- #### If you want connect ec2 instance via ssh in CLI, go to the folder where pem file is stored,and type pem file name with extension and user name with public ip address.
+![step11](https://user-images.githubusercontent.com/103019032/171089910-cf1b1ef1-a6e0-4cf2-8a6a-045f7ee9694b.PNG)
 
